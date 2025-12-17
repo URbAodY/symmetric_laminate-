@@ -1,4 +1,4 @@
-# symmetric_laminate-
+# symmetric_laminate
 这是一个用于计算复合材料对称层合板面内刚度和弯曲刚度的 Fortran 程序。由gfortran编译器编译。
 
 ## 程序功能
